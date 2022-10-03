@@ -1,0 +1,7 @@
+"name"	"sample"	"type"
+"1"	"STR_3"	3	"STR"
+"2"	"CTRL_1"	1	"CTRL"
+"3"	"CTRL_2"	2	"CTRL"
+"4"	"STR_1"	1	"STR"
+"5"	"STR_2"	2	"STR"
+"6"	"CTRL_3"	3	"CTRL"
